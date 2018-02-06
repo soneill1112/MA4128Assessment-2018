@@ -1,12 +1,7 @@
 
 ### How to Include Code
-<pre><code>
-<pre><code>
 
-# Here is some code
-
-</code></pre>
-</code></pre>
+Edit to see how to embed code in a markdown document.
 
 <pre><code>
 
